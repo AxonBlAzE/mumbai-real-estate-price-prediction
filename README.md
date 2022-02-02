@@ -14,4 +14,6 @@ A data science effort to forecast Real Estate Price Values in Mumbai's various n
 
 5.Designed an interactive UI design for the website using HTML,CSS,JS that allows user to enter house area(sqft),location etc and using python flask server user gets the estimated price.
 
+An Overview Presentation: https://docs.google.com/presentation/d/1VGsNVn6bQvHz1pstD6q3_sMRBvwv_jw12dUQ0HP-3bs/edit?usp=sharing
+
 ![ss](./assets/screenshot.png)
